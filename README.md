@@ -52,7 +52,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 ## 📬 Contato  
 Se tiver dúvidas ou sugestões, entre em contato comigo:  
 - **YouTube**: [debugando_c](https://youtube.com/@debugando_c)  
-- **LinkedIn**: [Gabriel Rizzi]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-rizzi-3622221b2/))  
+- **LinkedIn**: [Gabriel Rizzi](https://www.linkedin.com/in/gabriel-rizzi-3622221b2/)  
 
 ✨ **Não esqueça de deixar uma ⭐ no repositório se você gostou do projeto!**  
 ```  
