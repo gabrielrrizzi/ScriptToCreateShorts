@@ -1,0 +1,9 @@
+selenium
+moviepy
+PIL
+assemblyai
+pysrt
+wave
+TTS
+googleapiclient
+oauth2client
